@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FlashlightLib")(type "KiCad")(uri "${KIPRJMOD}/FlashlightLib.kicad_sym")(options "")(descr ""))
+)
